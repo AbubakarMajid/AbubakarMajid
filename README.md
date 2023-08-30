@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning DS
 - 💞️ I’m looking to collaborate on DS 
-- 📫 How to reach me : Through my instagram @theprogrammerclan and my yt channel Code with Geeks
+- 📫 How to reach me : Through my instagram @codewithgeeks__ and my yt channel Code with Geeks
 
 <!---
 AbubakarMajid/AbubakarMajid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
